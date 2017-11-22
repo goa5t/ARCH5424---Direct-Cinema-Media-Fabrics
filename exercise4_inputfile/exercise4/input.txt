@@ -1,0 +1,900 @@
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 150 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 160 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 100 
+sound_sensor = 200 
+photo sensor * 100 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 120 
+sound_sensor = 200 
+photo sensor * 120 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 150 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 140 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 100 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 180 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 50 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
+photo sensor * 200 
+sound_sensor = 20 
